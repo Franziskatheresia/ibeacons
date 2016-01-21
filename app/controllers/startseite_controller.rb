@@ -1,0 +1,2 @@
+class StartseiteController < ApplicationController
+end
